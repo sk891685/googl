@@ -3,19 +3,21 @@
     {
       "id": 1,
       "name": "Sansfe",
-      "amount": 700,
       "phone": "9127353578",
       "expiry_date": "2026-03-31",
       "allow_offline": false,
+      "is_active": true,
+      "validation_status": "valid",
       "key": "cd9fce5bbc5af4ce0970d7d968288a5232d24044e29edc8fa5536ccb08b23971"
     },
     {
       "id": 2,
       "name": "User 2",
-      "amount": 350,
       "phone": "8179367037",
       "expiry_date": "2026-03-21",
       "allow_offline": false,
+      "is_active": true,
+      "validation_status": "valid",
       "key": "7924a64c32f3bfe62ab9930ecf57daaae372af3ceec5d3e0af4fabf3d73660c6"
     },
     {
@@ -23,48 +25,55 @@
       "name": "upr vale ka dost",
       "expiry_date": "2026-03-26",
       "allow_offline": false,
+      "is_active": true,
+      "validation_status": "valid",
       "key": "5c51945605c3125525b121eb86ea3f160da7a101ffce2e939e4033efa4e9e745"
     },
     {
       "id": 4,
-      "name": "Urja",
-      "phone": "9936416593",
+      "name": "Urja (9936416593)",
       "expiry_date": "2026-02-01",
       "allow_offline": false,
+      "is_active": false,
+      "validation_status": "expired",
       "key": "26cb6e9881b82b3cf1927ef6fae560f90720caa31904362168dbdb00b1b82c2a"
     },
     {
       "id": 5,
-      "name": "Urja",
-      "amount": 450,
+      "name": "Urja (450rs)",
       "expiry_date": "2026-02-21",
       "allow_offline": false,
-      "status": "expired",
+      "is_active": false,
+      "validation_status": "expired",
       "key": "918c485fc8a8dd3158d3ab66dd44de7b02db39518c2c61edc6a506d1a4d21fff"
     },
     {
       "id": 6,
       "name": "Zepto Bro",
-      "expiry_date": null,
+      "expiry_date": "2026-12-31",
       "allow_offline": false,
+      "is_active": true,
+      "validation_status": "valid",
       "key": "e73348e8af13ce35c08a0d0918c461d7ecafcb3e4beece18513403efec1d8f77"
     },
     {
       "id": 7,
       "name": "ZEPTO",
       "expiry_date": "2026-03-17",
-      "note": "25 days from Feb 20",
       "allow_offline": false,
+      "is_active": true,
+      "validation_status": "valid",
       "key": "c3cf8189371d7417b4cf6d3cf97c3f25bfaa8cc1cf769b2e652bacb1ae6276e2"
     },
     {
       "id": 8,
       "name": "Mere sikhsk app",
-      "amount": 400,
       "phone": "8815109952",
-      "expiry_date": null,
+      "expiry_date": "2027-01-01",
       "allow_offline": false,
-      "key": "PENDING_GENERATION"
+      "is_active": true,
+      "validation_status": "valid",
+      "key": "3aef8c5605c3125525b121eb86ea3f160da7a101ffce2e939e4033efa4e9e888"
     }
   ]
 }
