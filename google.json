@@ -3,7 +3,6 @@
     {
       "id": 1,
       "name": "Sansfe",
-      "phone": "9127353578",
       "expiry_date": "2026-03-31",
       "allow_offline": false,
       "is_active": true,
@@ -13,7 +12,6 @@
     {
       "id": 2,
       "name": "User 2",
-      "phone": "8179367037",
       "expiry_date": "2026-03-21",
       "allow_offline": false,
       "is_active": true,
@@ -31,21 +29,21 @@
     },
     {
       "id": 4,
-      "name": "Urja (9936416593)",
+      "name": "Urja (Expired)",
       "expiry_date": "2026-02-01",
       "allow_offline": false,
       "is_active": false,
-      "validation_status": "expired",
-      "key": "26cb6e9881b82b3cf1927ef6fae560f90720caa31904362168dbdb00b1b82c2a"
+      "validation_status": "DEACTIVATED",
+      "key": null
     },
     {
       "id": 5,
-      "name": "Urja (450rs)",
+      "name": "Urja (Expired)",
       "expiry_date": "2026-02-21",
       "allow_offline": false,
       "is_active": false,
-      "validation_status": "expired",
-      "key": "918c485fc8a8dd3158d3ab66dd44de7b02db39518c2c61edc6a506d1a4d21fff"
+      "validation_status": "DEACTIVATED",
+      "key": null
     },
     {
       "id": 6,
@@ -68,7 +66,6 @@
     {
       "id": 8,
       "name": "Mere sikhsk app",
-      "phone": "8815109952",
       "expiry_date": "2027-01-01",
       "allow_offline": false,
       "is_active": true,
